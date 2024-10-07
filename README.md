@@ -5,7 +5,23 @@ I'm Lyusya
 - 📫 How to reach me: lyusya.cool@gmail.com</br>
 ... or you can find me on RSSchool discord under the name Cherry https://discord.gg/KYZ2eVFy
 
-Tech Stack: Photoshop, HTML, CSS, JavaScript, TypeScript, Angular
+## Tech Stack
+
+<img src="./assets/photoshop.png"  width="40" height="40">
+
+<img src="./assets/figma.png"  width="40" height="40">
+
+<img src="./assets/html5.png"  width="40" height="40">
+
+<img src="./assets/css.png"  width="40" height="40">
+
+<img src="./assets/scss.png"  width="40" height="40">
+
+<img src="./assets/js.png"  width="40" height="40">
+
+<img src="./assets/ts.png"  width="40" height="40">
+
+<img src="./assets/angular.png"  width="40" height="40">
 
 <!--
 **lyutails/lyutails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
