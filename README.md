@@ -1,6 +1,6 @@
 ## Hey there o/
 
-I'm Lyusya
+My name is Lyusya
 
 - 📫 How to reach me: lyusya.cool@gmail.com</br>
 ... or you can find me on RSSchool discord under the name Cherry https://discord.gg/KYZ2eVFy
