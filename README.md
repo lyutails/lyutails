@@ -7,7 +7,7 @@ I'm Lyusya
 
 ## Tech Stack
 
-<img src="./assets/photoshop.png"  width="40" height="40"> <img src="./assets/figma.png"  width="40" height="40"> <img src="./assets/html5.png"  width="40" height="40"> <img src="./assets/css.png"  width="40" height="40"> <img src="./assets/scss.png"  width="40" height="40"> <img src="./assets/js.png"  width="40" height="40"> <img src="./assets/ts.png"  width="40" height="40"> <img src="./assets/angular.png"  width="40" height="40">
+<img src="./assets/photoshop.png"  width="40" height="40"> <img src="./assets/figma.png"  width="40" height="40"> <img src="./assets/html5.png"  width="40" height="40"> <img src="./assets/css.png"  width="40" height="40"> <img src="./assets/scss.png"  width="40" height="40"> <img src="./assets/js.png"  width="40" height="40"> <img src="./assets/ts.png"  width="40" height="40"> <img src="./assets/angular.png"  width="40" height="40"> <img src="./assets/angular_new_logo.png"  width="40" height="40">
 
 <!--
 **lyutails/lyutails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
