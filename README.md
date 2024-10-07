@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey there o/
+
+I'm Lyusya
+
+- 📫 How to reach me: lyusya.cool@gmail.com
+... or you can find me on RSSchool discord under the name Cherry https://discord.gg/KYZ2eVFy
+
+Tech Stack: Photoshop, HTML, CSS, JavaScript, TypeScript, Angular
 
 <!--
 **lyutails/lyutails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: lyusya.cool@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
