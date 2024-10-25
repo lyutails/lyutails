@@ -2,8 +2,8 @@
 
 my name is **Lyusya**
 
-- 📫 how to reach me: lyusya.cool@gmail.com</br>
-... or you can find me on [RSSchool](https://rs.school/) [discord](https://discord.gg/PAxsgAPH) under the name Cherry
+📫 how to reach me: lyusya.cool@gmail.com</br>
+... or you can find me on [RSSchool](https://rs.school/courses/angular) discord under the name Cherry
 
 ## Tech Stack
 
