@@ -11,5 +11,5 @@ my name is **Lyusya**
 
 ### What's going on
 
-activist, one of the coordinators and moderators of RSSchool Angular Course https://rs.school/courses/angular
+activist, one of the coordinators and moderators of [RSSchool](https://rs.school/courses/angular) Angular Course
 
