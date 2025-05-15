@@ -3,7 +3,7 @@
 my name is **Lyusya**
 
 📫 how to reach me: lyusya.cool@gmail.com</br>
-... or you can find me on [RSSchool](https://rs.school/courses/angular) discord under the name Cherry (@lyutolis)
+<img src="./assets/discord.png"  width="20" height="20"> or you can find me on [RSSchool](https://rs.school/courses/angular) discord under the name Cherry (@lyutolis)
 
 ## Tech Stack
 
