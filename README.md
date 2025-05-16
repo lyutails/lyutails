@@ -9,8 +9,6 @@ my name is **Lyusya**
 
 <img src="./assets/photoshop.png"  width="40" height="40"> <img src="./assets/illustrator.png"  width="40" height="40"> <img src="./assets/ae.png"  width="40" height="40"> <img src="./assets/zbrush.png"  width="40" height="40"> <img src="./assets/houdini.png"  width="40" height="40"> <img src="./assets/figma.png"  width="40" height="40"> <img src="./assets/html.png"  width="40" height="40"> <img src="./assets/css.png"  width="40" height="40"> <img src="./assets/scss.png"  width="40" height="40"> <img src="./assets/js.png"  width="40" height="40"> <img src="./assets/ts.png"  width="40" height="40"> <img src="./assets/angular_new_logo.png"  width="40" height="40"> <img src="./assets/rxjs.png"  width="40" height="40"> <img src="./assets/ngrx.png"  width="40" height="40"> <img src="./assets/jasmine.png"  width="40" height="40"> <img src="./assets/jest.png"  width="40" height="40"> <img src="./assets/github.png"  width="40" height="40">
 
-https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
-
 ### What's going on
 
 activist, one of the coordinators and moderators of [RSSchool](https://rs.school/courses/angular) Angular Course
