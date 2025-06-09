@@ -13,8 +13,4 @@ my name is **Lyusya**
 
 activist, one of the coordinators and moderators of [RSSchool](https://rs.school/courses/angular) Angular Course
 
-### Jobs
-
-Angular Frontend Developr
-currently working at Bondah LLC [bondah.com/company](https://bondah.com/company)
 
