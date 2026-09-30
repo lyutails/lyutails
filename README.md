@@ -8,9 +8,3 @@ my name is **Lyusya**
 ## Tech Stack
 
 <img src="./assets/figma.png"  width="40" height="40"> <img src="./assets/html.png"  width="40" height="40"> <img src="./assets/css.png"  width="40" height="40"> <img src="./assets/scss.png"  width="40" height="40"> <img src="./assets/js.png"  width="40" height="40"> <img src="./assets/ts.png"  width="40" height="40"> <img src="./assets/angular_new_logo.png"  width="40" height="40"> <img src="./assets/rxjs.png"  width="40" height="40"> <img src="./assets/ngrx.png"  width="40" height="40"> <img src="./assets/jasmine.png"  width="40" height="40"> <img src="./assets/threejs.png"  width="40" height="40">  <img src="./assets/github.png"  width="40" height="40">
-
-### What's going on
-
-activist, mentor, one of the moderators of [RSSchool](https://rs.school/courses/angular) Angular Course
-
-
